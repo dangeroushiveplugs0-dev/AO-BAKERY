@@ -1,0 +1,8 @@
+{
+  "name": "AO Bakery",
+  "id": "ao_bakery",
+  "version": "0.1.0",
+  "description": "Bake ambient occlusion onto Blockbench textures.",
+  "author": "dangeroushiveplugs0-dev",
+  "main": "plugin.js"
+}
